@@ -1,0 +1,40 @@
+# PYTHON TEMPORARY FILES
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VIRTUAL ENVIRONMENTS
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+# PYSIDE6 AND GENERATED FILES
+*.pyi
+*.qrc
+*.ui
+*.pyproj
+
+# LOGS AND TEMPORARY FILES
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# VS CODE CONFIGURATION FILES
+.vscode/
+
+# OPERATING SYSTEM FILES
+Thumbs.db
+.DS_Store
+
+# LOCAL DATABASE AND SENSITIVE CONFIGURATION FILES
+*.db
+*.sqlite3
+*.cfg
+*.ini
+*.yaml
+*.yml
