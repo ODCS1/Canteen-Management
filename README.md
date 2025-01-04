@@ -54,11 +54,14 @@ Follow the steps to run the application on your local machine.
     ```
     python --version
     ```
-4. Run main.py:
+4. Install Dependencies:
+    ```
+    pip install pyside6 pyodbc
+5. Run main.py:
     ```
     python main.py
     ```
 
 ---
 
-⚡ Thank you for visiting my Repository! If you like what you saw, please favorite it and follow me to see more interesting projects coming soon.
+⚡ Thank you for visiting my Repository! If you like what you saw, please star it and follow me to see more interesting projects coming soon.
